@@ -1,0 +1,70 @@
+.heading {
+	font-family: verdana; 
+	color: #520080;
+}
+
+.heading1 {
+	font-family: verdana; 
+	color: #520080;
+	position: relative;
+	bottom: 60px;
+}
+
+
+.ch {
+	position: relative;
+	bottom: 60px;
+}
+
+img {
+	float: right;
+	margin-left: 15px;
+	margin-right: 15px;
+	width: 220px;
+	height: 400px;
+}
+
+p {
+	font-family: verdana;
+	size: 15px;
+}
+
+.forclear {
+	clear: both;
+}
+
+#div1 {
+	height: 450px;
+	width: 600px;
+	border: 2px solid;
+	border-color: black;
+}
+
+span {
+	color: #520080;
+}
+
+table {
+	position: relative;
+	top: 15px;
+	width: 800;
+}
+
+ul {
+	position: relative;
+	right: 90px;
+	border: 2px solid;
+	border-color: black;
+	width: 120px;
+	padding-right: 20px;
+}
+
+ol {
+	position: relative;
+	bottom: 75px;
+	left: 100px;
+	border: 2px solid;
+	border-color: black;
+	width: 120px;
+	padding-right: 20px;
+}
